@@ -1,0 +1,7 @@
+{
+  "name": "TrustFix",
+  "description": "Cooperative-owned digital service marketplace connecting households and institutions with verified skilled workers from labour cooperatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
